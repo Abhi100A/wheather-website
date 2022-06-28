@@ -3,4 +3,4 @@
 *simple wheather-website using CSS, HTML and JAVASCRIPT.*
 
 
-![](https://github.com/Abhi100A/screenshots)
+![screenshots](https://github.com/Abhi100A/screenshots)
